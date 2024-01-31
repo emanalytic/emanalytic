@@ -1,9 +1,3 @@
-
-<!-- Header Image -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.png" alt="Header Image">
-</p>
-
 <h1 align="center">Hi there, I'm Eman! 👋</h1>
 
 <!-- Introduction -->
@@ -21,12 +15,12 @@
 - 💞️  My goal is to leverage data to solve real-world problems and make data-driven decisions.
 
 ## Connect with me 
-<!-- Social Media Badges -->
 <p align="center">
-  <!-- Replace with your URLs -->
-  <a href="YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/eman-nisar-a34857287">
+  <img src="https://img.shields.io/badge/LinkedIn-Eman%20Nisar-blue?style=flat&logo=linkedin" alt="LinkedIn">
+</a>
 </p>
+
+
 Join me on LinkedIn for insightful discussions about AI, Data Science, or any thrilling tech projects. 
 I'm all about collaboration and keen to bring creativity to innovative ventures. 
