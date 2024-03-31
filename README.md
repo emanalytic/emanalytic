@@ -2,10 +2,10 @@
 
 Welcome to my digital space on GitHub! I'm thrilled you've stopped by.
 
-## About Me 🧙‍♂️
+## About Me 
 I'm a computer science undergraduate with a burning passion for data science and machine learning.
 **My Expertise:**
-- Programming with Python and SQL 🐍
+- Programming with Python and SQL 
 - Building and tuning Machine Learning models💀
 - Diving deep into the realms of Artificial Intelligence ^_^
 
@@ -16,16 +16,10 @@ I'm a computer science undergraduate with a burning passion for data science and
 ## Let's Connect!
 I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
 
-Find me on LinkedIn for a professional chat or Twitter and Kaggle for more casual exchanges and collaboration opportunities.
+Find me on LinkedIn for a professional chat and collaboration opportunities.
 <p align="center">
 <a href="https://www.linkedin.com/in/eman-nisar-a34857287">
   <img src="https://img.shields.io/badge/LinkedIn-Eman%20Nisar-blue?style=flat&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/emanlaytics">
-  <img src="https://img.shields.io/badge/Twitter-Emanalytics7-blue?style=flat&logo=twitter" alt="Twitter">
-</a>
-<a href="https://www.kaggle.com/emannisar">
-  <img src="https://img.shields.io/badge/Kaggle-Evy-blue?style=flat&logo=k" alt="Kaggle">
 </a>
 </p>
 
@@ -37,7 +31,6 @@ Find me on LinkedIn for a professional chat or Twitter and Kaggle for more casua
 
 Before you go, here's a random fun fact:
 
-Why was the Python script always a hit at parties? Because it knew how to "import" a good time! 😉
 
 Thanks for dropping by!  <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> 
 Have a nice day! 
