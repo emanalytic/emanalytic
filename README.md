@@ -2,12 +2,12 @@
 
 Welcome to my digital space on GitHub! I'm thrilled you've stopped by.
 
-## About Me
+## About Me 🧙‍♂️
 I'm a computer science undergraduate with a burning passion for data science and machine learning.
 **My Expertise:**
-- Programming with Python and SQL
-- Building and tuning Machine Learning models
-- Diving deep into the realms of Artificial Intelligence
+- Programming with Python and SQL 🐍
+- Building and tuning Machine Learning models💀
+- Diving deep into the realms of Artificial Intelligence ^_^
 
 **Currently, I'm:**
 - Enhancing my machine learning skills with hands-on projects
@@ -21,21 +21,23 @@ Find me on LinkedIn for a professional chat or Twitter and Kaggle for more casua
 <a href="https://www.linkedin.com/in/eman-nisar-a34857287">
   <img src="https://img.shields.io/badge/LinkedIn-Eman%20Nisar-blue?style=flat&logo=linkedin" alt="LinkedIn">
 </a>
-<a href="https://twitter.com/Emanalytics7">
+<a href="https://twitter.com/emanlaytics">
   <img src="https://img.shields.io/badge/Twitter-Emanalytics7-blue?style=flat&logo=twitter" alt="Twitter">
 </a>
-<a href="https://www.kaggle.com/emanalytics">
-  <img src="https://img.shields.io/badge/Kaggle-Emanalytics-blue?style=flat&logo=kaggle" alt="Kaggle">
+<a href="https://www.kaggle.com/emannisar">
+  <img src="https://img.shields.io/badge/Kaggle-Evy-blue?style=flat&logo=k" alt="Kaggle">
 </a>
 </p>
 
-## 📊 My GitHub Stats
+## 😀 My GitHub Stats
 
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanalytics7&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanalytics7&layout=compact&theme=radical)
 
-Before you go, here's a random fun fact: Why was the Python script always a hit at parties? Because it knew how to "import" a good time! 😉
+Before you go, here's a random fun fact:
+
+Why was the Python script always a hit at parties? Because it knew how to "import" a good time! 😉
 
 Thanks for dropping by!  <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> 
 Have a nice day! 
