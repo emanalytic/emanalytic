@@ -1,26 +1,42 @@
-<h1 align="center">Hi there, I'm Eman! 👋</h1>
+<h1 align="center">Hi there, I'm Eman! <img src="https://github.com/Emanalytics7/Emanalytics7/blob/main/pixels.gif" width="80px"></h1>
 
-<!-- Introduction -->
-<p align="center">
-  Welcome to my GitHub profile!
-  I'm a Data Scientist passionate about uncovering insights from data and driving business success.
-</p>
+Welcome to my digital space on GitHub! I'm thrilled you've stopped by.
 
-
-
-<!-- About Me Section -->
 ## About Me
-- ✨  As a data scientist, I'm skilled in Python, SQL, and machine learning.
-- 🌱  I'm currently delving into deep learning and AI.
-- 💞️  My goal is to leverage data to solve real-world problems and make data-driven decisions.
+I'm a computer science undergraduate with a burning passion for data science and machine learning.
+**My Expertise:**
+- Programming with Python and SQL
+- Building and tuning Machine Learning models
+- Diving deep into the realms of Artificial Intelligence
 
-## Connect with me 
+**Currently, I'm:**
+- Enhancing my machine learning skills with hands-on projects
+- Exploring advanced topics in AI, aiming to contribute innovative solutions to the tech community
+
+## Let's Connect!
+I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
+
+Find me on LinkedIn for a professional chat or Twitter and Kaggle for more casual exchanges and collaboration opportunities.
 <p align="center">
 <a href="https://www.linkedin.com/in/eman-nisar-a34857287">
   <img src="https://img.shields.io/badge/LinkedIn-Eman%20Nisar-blue?style=flat&logo=linkedin" alt="LinkedIn">
 </a>
+<a href="https://twitter.com/Emanalytics7">
+  <img src="https://img.shields.io/badge/Twitter-Emanalytics7-blue?style=flat&logo=twitter" alt="Twitter">
+</a>
+<a href="https://www.kaggle.com/emanalytics">
+  <img src="https://img.shields.io/badge/Kaggle-Emanalytics-blue?style=flat&logo=kaggle" alt="Kaggle">
+</a>
 </p>
 
+## 📊 My GitHub Stats
 
-Join me on LinkedIn for insightful discussions about AI, Data Science, or any thrilling tech projects. 
-I'm all about collaboration and keen to bring creativity to innovative ventures. 
+![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanalytics7&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanalytics7&layout=compact&theme=radical)
+
+Before you go, here's a random fun fact: Why was the Python script always a hit at parties? Because it knew how to "import" a good time! 😉
+
+Thanks for dropping by!  <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> 
+Have a nice day! 
+
