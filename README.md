@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Eman! <img src="https://github.com/Emanalytics7/Emanalytics7/blob/main/pixels.gif" width="80px"></h1>
 
-Welcome to my digital space on GitHub! I'm thrilled you've stopped by.
+Welcome to my digital space on GitHub!<img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> 
+I'm thrilled you've stopped by.
 
 ## About Me 
 I'm a computer science undergraduate with a burning passion for data science and machine learning.
@@ -28,10 +29,3 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanalytics7&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanalytics7&layout=compact&theme=radical)
-
-Before you go, here's a random fun fact:
-
-
-Thanks for dropping by!  <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> 
-Have a nice day! 
-
