@@ -4,7 +4,7 @@ Welcome to my digital space on GitHub!<img src="https://raw.githubusercontent.co
 I'm thrilled you've stopped by.
 
 ## About Me 
-I'm a computer science undergraduate with a burning passion for data science and machine learning.
+I'm a computer science undergraduate with a burning passion for data science and machine learning!
 
 **My Expertise:**
 - Programming with Python and SQL 
