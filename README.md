@@ -5,6 +5,8 @@ I'm thrilled you've stopped by.
 
 ## About Me 
 I'm a computer science undergraduate with a burning passion for data science and machine learning!
+<img src="https://github.com/Emanalytics7/Emanalytics7/blob/main/54d9a02c-8542-4a26-bfa0-17825b5e6efd.gif">
+
 
 **My Expertise:**
 - Programming with Python and SQL 
