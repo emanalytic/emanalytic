@@ -25,7 +25,7 @@ Find me on LinkedIn for a professional chat and collaboration opportunities.
 </a>
 </p>
 
-## 😀 My GitHub Stats
+## My GitHub Stats
 
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanalytics7&show_icons=true&theme=radical)
 
