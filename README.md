@@ -8,7 +8,7 @@ I'm a computer science undergraduate with a burning passion for data science and
 
 **My Expertise:**
 - Programming with Python and SQL 
-- Building and tuning Machine Learning models💀
+- Building and tuning Machine Learning models
 - Diving deep into the realms of Artificial Intelligence ^_^
 
 **Currently, I'm:**
