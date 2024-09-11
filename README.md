@@ -4,16 +4,18 @@ Welcome to my digital space on GitHub!
 I'm thrilled you've stopped by.
 
 ## About Me 
-I'm a computer science undergraduate with a burning passion for data science and machine learning!
-
-**My Expertise:**
-- Programming with Python and SQL 
-- Building and tuning Machine Learning models
-- Diving deep into the realms of Artificial Intelligence ^_^
+I'm a computer science undergraduate with a passion for data science and machine learning!
 
 **Currently, I'm:**
-- Enhancing my machine learning skills with hands-on projects
-- Exploring advanced topics in AI, aiming to contribute innovative solutions to the tech community
+- Taking my deep learning skills to new level ..
+- Building automation stuff in free time 
+- Enhancing my machine learning skills with hands on projects 
+- Exploring the LLMS 
+
+**My Expertise:**
+- Programming with Python and SQL
+- Building and tuning Machine Learning models ^_^
+
 
 ## Let's Connect!
 I find great joy in connecting with like-minded individuals and sharing insights on the latest in tech. 
