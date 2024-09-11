@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Eman!<img src="https://github.com/Emanalytics7/Emanalytics7/blob/main/pixels.gif" width="80px"></h1>
+<h1 align="center">Hello there, I'm Eman!</h1>
 
 Welcome to my digital space on GitHub!<img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> 
 I'm thrilled you've stopped by.
