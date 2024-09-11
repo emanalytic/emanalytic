@@ -7,14 +7,14 @@ I'm thrilled you've stopped by.
 I'm a computer science undergraduate with a passion for data science and machine learning!
 
 **Currently, I'm:**
-- Taking my deep learning skills to new level ..
-- Building automation stuff in free time 
+- Taking My Deep Learning Skills to the Next Level
+- Spending my free time building cool automation projects
 - Enhancing my machine learning skills with hands on projects 
-- Exploring the LLMS 
+- Experimenting with large language models (LLMs)
 
 **My Expertise:**
 - Programming with Python and SQL
-- Building and tuning Machine Learning models ^_^
+- Building and fine-tuning Machine Learning models ^_^
 
 
 ## Let's Connect!
