@@ -1,6 +1,6 @@
-<h1 align="center">Hello there, I'm Eman!</h1>
+<h1 align="center">Hello there, I'm Eman! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> </h1>
 
-Welcome to my digital space on GitHub!<img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px"> 
+Welcome to my digital space on GitHub!
 I'm thrilled you've stopped by.
 
 ## About Me 
