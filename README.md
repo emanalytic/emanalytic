@@ -8,7 +8,7 @@ I'm a computer science undergraduate with a passion for data science and machine
 
 **Currently, I'm:**
 - Taking My Deep Learning Skills to the Next Level
-- Spending my free time building cool automation projects
+- Spending my free time building cool automation and genai projects
 - Enhancing my machine learning skills with hands on projects 
 - Experimenting with large language models (LLMs)
 
