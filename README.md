@@ -15,6 +15,7 @@ I'm a computer science undergraduate with a passion for data science and machine
 **My Expertise:**
 - Programming with Python and SQL
 - Building and fine-tuning Machine Learning models ^_^
+- GenAI applications
 
 
 ## Let's Connect!
