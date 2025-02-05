@@ -1,23 +1,19 @@
-<h1 align="center">EMAN💜</h1>
-
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/573aae92-bc93-4dff-9222-93f86ea281fe" alt="image" width="300"/>
+</h1>
 <p align="center">
   <a href="https://github.com/emanalytic">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=;Data+Scientist+%7C+AI+Researcher+%7C+Engineer;Machine+Learning+%7C+Data+Science+%7C+&color=6A0DAD" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Data+Scientist+%7C+AI+Researcher+%7C+Machine+Learning+Engineer&color=FFFFFF" alt="Typing SVG">
   </a>
 </p>
+
+
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/c2a1ac4e-fcfb-4bd7-ab2d-f7c799cb6642" alt="GIF" width="800" />
 </p>
 
-![tumblr_ogeopo1XzE1tysz53o1_500_gif 500×280 piksel](https://github.com/user-attachments/assets/c2a1ac4e-fcfb-4bd7-ab2d-f7c799cb6642)
-
 ---
-### My GitHub Stats
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emanalytic&theme=dracula" alt="Profile Details" width="100%" />
-</div>
-
----
 
 ### ⚡ Technical Skills
 <h4 align="left">Languages, Frameworks, and Tools</h4>
@@ -71,9 +67,9 @@
 
 ### Connect With Me
 For collabartion or professional chat!
-👉<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/eman-nisar/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="50" height="50"/>
+    <img src="https://github.com/user-attachments/assets/90ab98c0-e175-408d-a064-cd4e6291f573" alt="LinkedIn" width="50" height="50"/>
   </a>
 </p>
 
