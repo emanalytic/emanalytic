@@ -13,14 +13,3 @@
 </p>
 
 
----
-
-### Connect With Me
-For collabartion or professional chat!
-<p align="left">
-  <a href="https://www.linkedin.com/in/eman-nisar/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/90ab98c0-e175-408d-a064-cd4e6291f573" alt="LinkedIn" width="50" height="50"/>
-  </a>
-</p>
-
-
