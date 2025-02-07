@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/573aae92-bc93-4dff-9222-93f86ea281fe" alt="image" width="300"/>
+
 </h1>
 <p align="center">
   <a href="https://github.com/emanalytic">
@@ -7,9 +6,5 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c2a1ac4e-fcfb-4bd7-ab2d-f7c799cb6642" alt="GIF" width="800" />
-</p>
 
 
